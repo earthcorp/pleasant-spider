@@ -5,10 +5,10 @@ sections:
     title: Small things really matter..
     subtitle: 'For example,'
     content: >
-      For example, you can share your customer satisfaction eperience when you
-      talk about your service on your social media page. Even though it is a
-      small things, the effect and its credibility is nothing short of an
-      expensive advertisement.
+      You can share your customer satisfaction eperience when you talk about
+      your service on your social media page. Even though it is a small things,
+      the effect and its credibility is nothing short of an expensive
+      advertisement.
     actions:
       - label: Try Free
         url: /pricing
