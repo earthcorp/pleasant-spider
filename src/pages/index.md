@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Small things really matter..
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      For example, you can share your customer satisfaction eperience when you
+      talk about your service on your social media page. Even though it is a
+      small things, the effect and its credibility is nothing short of an
+      expensive advertisement.
     actions:
       - label: Try Free
         url: /pricing
