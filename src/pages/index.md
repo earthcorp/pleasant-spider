@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Small things really matter..
-    subtitle: 'For example,'
+    subtitle: For example..
     content: >
       You can share your customer satisfaction eperience when you talk about
       your service on your social media page. Even though it is a small things,
