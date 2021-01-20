@@ -154,7 +154,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Earthcorp. All rights reserved. This  site was created with <a href=\"https://www.earthcorp.in\" target=\"_blank\" rel=\"noopener\">Earthcorp</a>",
+        "content": "&copy; Earthcorp. All rights reserved. This  site was created with <a href=\"https://www.earthcorp.in\" target=\"_blank\" rel=\"noopener\">Earthcorp.</a>",
         "logo": "images/classic/logo.svg"
     },
     "title": "Earthcorp",
