@@ -1,7 +1,7 @@
 {
     "description": "Website Development Agency",
     "layout": "boxed",
-    "style": "minimal",
+    "style": "classic",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
