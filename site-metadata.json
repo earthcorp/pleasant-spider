@@ -8,7 +8,7 @@
     "header": {
         "title": "Earthcorp",
         "logo": "images/classic/logo.svg",
-        "logo_alt": "DIY logo",
+        "logo_alt": "Earthcorp logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
