@@ -1,6 +1,6 @@
 {
     "description": "Website Development Agency",
-    "layout": "full-width",
+    "layout": "boxed",
     "style": "classic",
     "palette": "green",
     "mode": "light",
