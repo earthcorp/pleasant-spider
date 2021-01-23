@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 template: page
-excerpt: rivacypolicy
+excerpt: privacypolicy
 ---
 This Privacy Policy is an electronic record in the form of an electronic contract formed under the information Technology Act, 2000 and the rules made thereunder and the amended provisions pertaining to electronic documents / recored in various statutes as amended by the information Technology Act, 2000. This Privacy Policy does not require any physical, electronic or digital signature.
 
