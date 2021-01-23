@@ -2,7 +2,7 @@
     "description": "Website Development Agency",
     "layout": "boxed",
     "style": "classic",
-    "palette": "green",
+    "palette": "gray",
     "mode": "light",
     "base_font": "serif",
     "header": {
